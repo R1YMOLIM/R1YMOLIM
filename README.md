@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @R1YMOLIM
-- 👀 I’m interested in programing language and Linux (NixOS and Arch)
+- 👀 I’m interested in programing language and Linux (NixOS and Arch) (С/C++, Python, Lua)
 
 <!---
 R1YMOLIM/R1YMOLIM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
