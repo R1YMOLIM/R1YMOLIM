@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @R1YMOLIM
-- 👀 I’m interested in programing language and Linux (NixOS and Arch) (С/C++, Python, Lua)
+- 👀 I’m interested in programing language and Linux (NixOS and Arch) (С/C++, Python, Lua, JS, bash)
+- 🧐 Learn bash script and lua
+- Now do neovim config
 
 <!---
 R1YMOLIM/R1YMOLIM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
