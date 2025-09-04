@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @R1YMOLIM
-- I’m just young programmer 
+I’m just young programmer...
